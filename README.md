@@ -4,7 +4,7 @@ This is the First Course in the Deep-Learning-Specialization  by deeplearning.ai
 ## Structure:
 This course is broken into weekly lectures and programming assignments as well as further readings and coding assignments.
 
-### Week 1: Introduction to deep learning
+### Week 1: Introduction to Deep Learning
 Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
 
 #### Key Concepts:
