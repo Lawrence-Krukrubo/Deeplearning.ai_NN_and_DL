@@ -1,4 +1,4 @@
-# Deeplearning.ai Neaural Network and Deep Learning Specialization, Course One.
+# Deeplearning.ai Neural Network and Deep Learning Specialization, Course One.
 This is the First Course in the Deep-Learning-Specialization  by deeplearning.ai
 
 ## Structure:
@@ -54,19 +54,19 @@ In support of Andrew in teaching this course are Kian katanforoosh and Younes Be
 
 #### Dependencies:
 To follow along for this entire course we need the following libraries and modules.
-`import math`
-`import numpy as np`
-`import time`
-`import matplotlib.pyplot as plt`
-`from testCases_v2 import *`
-`import sklearn`
-`import sklearn.datasets`
-`import sklearn.linear_model`
+* `import math`
+* `import numpy as np`
+* `import time`
+* `import matplotlib.pyplot as plt`
+* `from testCases_v2 import *`
+* `import sklearn`
+* `import sklearn.datasets`
+* `import sklearn.linear_model`
 
 #### Links:
 See the course link and my certificate links below
-[course link](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
-[certificate link](https://coursera-certificate-images.s3.amazonaws.com/MALQGP48XS69)
+* [course link](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+* [certificate link](https://coursera-certificate-images.s3.amazonaws.com/MALQGP48XS69)
 
 #### License:
 This repo and its entire contents abide under the MIT License as seen in the root directory.
